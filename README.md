@@ -1,10 +1,10 @@
-# Übersicht zu Datenstrukturen, Records, Nested-Tables, Packages
 # 🧠 Übersicht zu Datenstrukturen in PL/SQL
 
 Willkommen in meiner Übersicht.  
-Hier findest du strukturierte Links zu den jeweiligen Beispielen und Übungen:
+Hier findest du strukturierte Links zu den jeweiligen **Beispiel-Repositories und Erklärungen**:
 
 ---
+
 ## 📊 Gesamtübersicht
 
 🔗 Strukturierte Erklärungen, Tabellen & Empfehlungen:
@@ -15,20 +15,20 @@ Hier findest du strukturierte Links zu den jeweiligen Beispielen und Übungen:
 ## 📘 Records & Rowtypes
 
 📦 Beispiele für eigene Record-Typen und `%ROWTYPE`:
-- [📄 Datenstrukturen – Records](https://github.com/ad220296/Overview-Datenstrukturen-Records-Nested-Tables-Packages/tree/main/Records)
+- [📄 Records – Praxisbeispiele](https://github.com/ad220296/Records)
 
 ---
 
 ## 🧩 Nested Tables
 
 🔁 Beispiele zu Arrays & Hash-Tabellen mit Nested Tables:
-- [🗃️ Datenstrukturen – Nested Tables](https://github.com/ad220296/Overview-Datenstrukturen-Records-Nested-Tables-Packages/tree/main/NestedTables)
+- [🗃️ Nested Tables – Praxisbeispiele](https://github.com/ad220296/Nested_Tables)
 
 ---
 
 ## 📦 Packages
 
 📚 Sichtbarkeit, Aufbau & Verwendung von Packages:
-- [📁 Datenstrukturen – Packages](https://github.com/ad220296/Overview-Datenstrukturen-Records-Nested-Tables-Packages/tree/main/Packages)
+- [📁 Packages – Praxisbeispiele](https://github.com/ad220296/Packages)
 
 ---
